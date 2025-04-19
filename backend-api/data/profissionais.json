@@ -1,0 +1,34 @@
+[
+  {
+    "nome": "Dra. Ana Paula",
+    "especialidade": "Cardiologia"
+  },
+  {
+    "nome": "Dr. João Silva",
+    "especialidade": "Dermatologia"
+  },
+  {
+    "nome": "Dra. Carla Mendes",
+    "especialidade": "Cardiologia"
+  },
+  {
+    "nome": "Dra. Maria Oliveira",
+    "especialidade": "Pediatria"
+  },
+  {
+    "nome": "Dr. Pedro Santos",
+    "especialidade": "Ortopedia"
+  },
+  {
+    "nome": "Dra. Fernanda Lima",
+    "especialidade": "Ginecologia"
+  },
+  {
+    "nome": "Dr. Lucas Almeida",
+    "especialidade": "Oftalmologia"
+  },
+  {
+    "nome": "Dra. Juliana Costa",
+    "especialidade": "Endocrinologia"
+  }
+]
