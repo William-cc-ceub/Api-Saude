@@ -9,7 +9,10 @@ Esta é uma aplicação simples em Node.js com Express que permite consultar pro
 - Filtro por **especialidade**
 - Interface web simples com HTML (sem frontend separado)
 
----
+📌 Observações
+Esta versão não possui funcionalidades de edição ou cadastro de novos profissionais.
+Os dados são lidos diretamente de um arquivo JSON local.
 
-## 📁 Estrutura do Projeto
+Criação realizada por meio do Visual Studio Code.
+Comando para roda a pagina no terminal do VSCode na pasta "Saúde\backend-api>": node server.js
 
